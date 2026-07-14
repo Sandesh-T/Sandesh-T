@@ -25,58 +25,21 @@ Im gonna be professional i like building and making stuff. I am a introvert so i
 
 Now im gonna talk about my skills
 
-
-### 💻 Programming Languages
-
-* Java
-* Python
-* C++
-* SQL
-* JavaScript
+### 💻 Languages
+Java • Python • C++ • SQL • JavaScript
 
 ### 🌐 Web Development
-
-* HTML
-* CSS
-* React
-* Flask
-* REST APIs
+HTML • CSS • React • Flask • REST APIs
 
 ### 🗄️ Databases
-
-* MySQL
-* Cassandra
-* MongoDB
+MySQL • MongoDB • Cassandra
 
 ### 🤖 AI / Machine Learning
+TensorFlow • Keras • OpenCV • CNN • Transfer Learning
 
-* TensorFlow
-* Keras
-* OpenCV
-* CNNs
-* Transfer Learning
+### 🛠️ Tools
+Git • GitHub • Docker • Linux • VS Code
 
-### 🛠️ Tools & Technologies
-
-* Git & GitHub
-* Docker
-* Linux
-* VS Code
-* MySQL Workbench
-
-### ☁️ Currently Learning
-
-* Assembly
-* Japanese (JLPT N5)
-* System Design
-* Cloud Technologies
-* AI Agents
-
-### 🎯 Things I Like Building
-
-* AI-powered applications
-* Web applications
-* Automation tools
-* Full-stack projects
-* Random things that sound fun at 2 AM
+### 📚 Currently Learning
+Assembly • Japanese (JLPT N5) • System Design • Cloud Computing • AI Agents
 
